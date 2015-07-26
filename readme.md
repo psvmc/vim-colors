@@ -5,8 +5,12 @@
 + `vimColors_sys`: 系统自带的配色
 
 ###效果
-修改后的`desert`效果
+修改后的`desert`效果  
+配置文件效果
 ![desert效果][desert图片]
-![desert效果](/images/desert1.png)
+html效果
+![desert效果][desert_html]
 
 [desert图片]: https://github.com/psvmc/vim-colors/raw/master/images/desert1.png
+
+[desert_html]: https://github.com/psvmc/vim-colors/raw/master/images/desert_html.png

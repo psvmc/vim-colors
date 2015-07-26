@@ -7,4 +7,4 @@
 ###效果
 ![desert效果][desert图片]
 
-[desert图片]: ／image1/desert1.png
+[desert图片]: https://github.com/psvmc/vim-colors/raw/master/images/desert1.png
